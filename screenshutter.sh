@@ -5,7 +5,7 @@
 
 # Configuration
 PAGES=100
-DIR=~/Desktop/Screenshots_new
+DIR=~/Desktop/Screenshots
 DELAY=2
 
 # Set your capture region: R{x},{y},{width},{height}
